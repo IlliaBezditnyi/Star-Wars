@@ -8,4 +8,8 @@ This is StarWars project, bootstrapped using [`@react-native-community/cli`](htt
 - React Native Paper
 
 # About:
-In this application, you receive information about Star Wars characters from the open [`API`](https://swapi.dev/). The app consists of two screens. The Main screen shows a list of all people with pagination. Also, this screen gives the ability to indicate the total amount of male/female/other favourite characters across the Star Wars Universe. In the second screen you can see deep info about selected creature. It is developed using modern technologies, which are specified in the technology section.
+In this application, you receive information about Star Wars characters from the open [`API`](https://swapi.dev/).
+
+The app consists of two screens. The Main screen shows a list of all people with pagination. Also, this screen gives the ability to indicate the total amount of male/female/other favourite characters across the Star Wars Universe. In the second screen you can see deep info about selected creature. 
+
+It is developed using modern technologies, which are specified in the technology section.
