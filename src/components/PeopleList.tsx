@@ -30,6 +30,7 @@ const PeopleList: FC = () => {
   const from = page * itemsPerPage;
   const to = Math.min((page + 1) * itemsPerPage, count);
 
+  // Function to add or remove item from favourites.
   const likePersonFunc = (like: boolean, idx: number, gender: string) => {
     if (like) {
       dispatch(dislikePerson(idx));
